@@ -19,7 +19,7 @@ const exparts = [
 
 const Exparts = () => {
     return (
-        <div className='container'>
+        <div id='exparts' className='container'>
             <h2 className='text-primary text-center mt-5 mb-0 pt-4'>Our Exparts</h2>
             <div className="row ms-lg-5 ps-lg-3">
                 {
