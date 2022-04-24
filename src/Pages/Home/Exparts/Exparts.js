@@ -1,5 +1,4 @@
 import React from 'react';
-
 import expart1 from '../../../images/experts/expert-1.jpg';
 import expart2 from '../../../images/experts/expert-2.jpg';
 import expart3 from '../../../images/experts/expert-3.jpg';
